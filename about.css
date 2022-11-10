@@ -1,0 +1,30 @@
+.navbar{
+    height: 85px;
+}
+
+
+h1 {
+    text-align: center;
+    padding-top: 10%;
+}
+
+H2{
+    text-align: center;
+}
+
+img {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+.about-text{
+    background-color: rgb(253, 214, 75);
+    border: 1px solid rgb(205, 201, 201);
+    border-radius: 5px;
+    width: 75%;
+    margin: auto;
+}
